@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **What The Lifted Initiative is building!**
 
-- 📫 How to reach me **Eshoemaker@gmail.com**
+- 📫 How to reach me **esperanza@liftedinit.org**
 
 - ⚡ Fun fact **I'm our Community Manager and resident cat lady**
 
