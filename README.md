@@ -1,6 +1,7 @@
- ![Untitled_Artwork](https://user-images.githubusercontent.com/110497773/199380930-f26c9ca1-c630-48c4-9095-c2c722294dfb.gif)
+<h align="center"> ![Untitled_Artwork](https://user-images.githubusercontent.com/110497773/199383675-9cd1177b-2d9a-4701-a1f3-822c11b9f031.gif)
 
-<h1 align="center">Hi 👋, I'm Esperanza </h1>
+
+<h2 align="center">Hi, I'm Esperanza 👋 </h1>
 <h3 align="center">|She/Her/Hers| I like creating nerdy content 🕹️| Community Manager @ The Lifted Initiative|</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NmRWsRk0eBoAAAAi/cute-girl.gif">
 
