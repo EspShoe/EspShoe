@@ -1,4 +1,4 @@
- ![Untitled_Artwork](https://user-images.githubusercontent.com/110497773/199380930-f26c9ca1-c630-48c4-9095-c2c722294dfb.gif)![Untitled_Artwork](https://user-images.githubusercontent.com/110497773/199380930-f26c9ca1-c630-48c4-9095-c2c722294dfb.gif)![Untitled_Artwork](https://user-images.githubusercontent.com/110497773/199380930-f26c9ca1-c630-48c4-9095-c2c722294dfb.gif)
+ ![Untitled_Artwork](https://user-images.githubusercontent.com/110497773/199380930-f26c9ca1-c630-48c4-9095-c2c722294dfb.gif)![Untitled_Artwork](https://user-images.githubusercontent.com/110497773/199380930-f26c9ca1-c630-48c4-9095-c2c722294dfb.gif)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <h1 align="center">Hi 👋, I'm Esperanza </h1>
 <h3 align="center">|She/Her/Hers| I like creating nerdy content 🕹️| Community Manager @ The Lifted Initiative|</h3>
